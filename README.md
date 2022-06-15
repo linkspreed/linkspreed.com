@@ -54,19 +54,19 @@ Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed
 
 
 ### Welcome :)
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### News Feed
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Profile
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Chats
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Dark Mode
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### General Settings
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/screenshots/6.PNG" draggable="false" />
+<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/6.PNG" draggable="false" />
