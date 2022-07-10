@@ -1,3 +1,53 @@
+# v4.1.1 10 Jul 2022
+- ADDED story viewed time.
+- IMPROVED design / colors in default theme for few sections.
+- IMPROVED audio player design.
+- FIXED create article issue.
+- FIXED pick your plans, go pro plans were not showing on welcome page.
+- FIXED CROS issues in nodejs.
+- FIXED wallet system was not accepting top ups more than 1000
+- FIXED message button was not showing on profile (mobile).
+- FIXED {site_name} showing on registration page.
+- FIXED charts were not showing on groups and pages if loading using ajax.
+- FIXED stories now are ordered by DESC instead of ASC.
+- FIXED chat colors, default color was black.
+- FIXED birthday showing NULL on profile page sometimes.
+- FIXED clicking on stories next shows pervious story.
+- FIXED charecter limit on privacy page.
+- FIXED disabling pages was disabling the create button on top header.
+- FIXED YouTube videos on Instegram mode wasn't working.
+
+# v4.1 10 Jul 2022
+- ADDED report user system + reason.
+- ADDED ban message on user profile if user is banned.
+- ADDED Instagram Mode.
+- ADDED flutterwave payment method.
+- ADDED Ngenius payment method.
+- ADDED Aamarpay payment method.
+- ADDED the ability to add custom pro packages.
+- ADDED the ability to add custom withdrawal method.
+- ADDED the ability to resend two auth verfication code.
+- ADDED new design for Instegram mode.
+- UPDATED email verfication page design.
+- UPDATED chat design.
+- UPDATED all website shadow elements (css).
+- UPDATED header notifications, messages dropdown size.
+- UPDATED post comments design.
+- IMPROVED design in default theme for few sections.
+- FIXED qrcode.js was missing in sunshine.
+- FIXED login using twitter.
+- FIXED OG meta tags for albums.
+- FIXED XSS vulnerability.
+- FIXED fixed product showing in stock while there is no stock left.
+- FIXED announcements wern't working.
+- FIXED agora live video / calls.
+- FIXED google login API.
+- FIXED twilio video/audio calls.
+- FIXED if post was boosted on a page it doesn't appear in booted posts section.
+- FIXED the ability to send gif & stickers on nodejs.
+- FIXED 40+ more minor bugs.
+- FIXED bugs in API.
+
 # v4.0.1 (23 Feb 2022)
 - ADDED audio player for mp3 files.
 - ADDED yandex API for maps.
