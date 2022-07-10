@@ -1,3 +1,7 @@
+# 10.07.2022
+ - Today we release two new versions for Linkspreed.
+   - We release version 4.1 and version 4.1.1
+
 # 01.07.2022
  - We're going to publish a huge update (Version 4.1) in one week
 
