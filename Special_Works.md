@@ -1,3 +1,6 @@
+# 08.08.2022
+ - 🎮 Calling all gamers out there - we will be releasing a new minigame on **Linkspreed** 🧡 every Saturday 
+
 # 10.07.2022
  - The two new versions have just been successfully released. The changes can be found in the changelog.
 
