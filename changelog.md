@@ -1,3 +1,76 @@
+# v4.1.2 (06 Sep, 2022)
+ - ADDED new emojis to messages and posts.
+ - ADDED drag and drop to upload stories page.
+ - ADDED unseen effect to stories.
+ - ADDED new video player.
+ - ADDED video player for movies.
+ - ADDED drag and drop to create an album page.
+ - ADDED audio player on chat when sending a recording file.
+ - ADDED new dropdown menu on header, post and profile.
+ - ADDED new upgrade to pro system. Now users can upgrade to another pro package using the same go pro page instead of using settings page.
+ - ADDED new cron-job.php file, (should be added).
+ - ADDED ISO system for langs.
+ - ADDED Href SEO meta tags.
+ - ADDED BACKBLAZE stroage.
+ - ADDED the ability to upload files from server directly to third party stroages like S3.
+ - ADDED custom endpoint for each storage (CDN support).
+ - ADDED new reaction icons.
+ - ADDED stories unseen border colored animation (profile page).
+ - ADDED 10+ more regions to Wasabi, Ocean and Amazon.
+ - ADDED the ability to choose who can use the affiliate system.
+ - ADDED the ability to edit forum sections and forum names.
+ - ADDED the ability to set custom minimum withdrawal amount.
+ - ADDED "Add Photo" button to post publisher box after choosing an image.
+ - ADDED Google Translate API for posts.
+ - ADDED "Email Deliverability" system to debug and check the log of SMTP settings.
+ - ADDED Hindi, Urdu, Chine, Indonesian, Croatian, Hebrew, Bengali, Japanese, Portuguese, Italian, Persian, Swedish, Vietnamese, Danish, and Filipino languages.
+ - IMPROVED design / colors in default theme for few sections.
+ - IMPROVED code security.
+ - REMOVED 10+ unused files.
+ - UPDATED loading icon for notification dropdown.
+ - UPDATED design of user list in right sidebar in user profile page .
+ - UPDATED movies watch page design.
+ - UPDATED funding page design.
+ - UPDATED date selector for events, profile and other sections.
+ - UPDATED user settings page.
+ - UPDATED keyboard shortcuts model design.
+ - UPDATED header icons.
+ - UPDATED "Profile Completion" design.
+ - UPDATED page design.
+ - UPDATED start-up page.
+ - UPDATED chat tab design.
+ - UPDATED wallet page design.
+ - UPDATED design in few section in sunshine theme.
+ - FIXED reply to messages on sunshine theme (nodejs).
+ - FIXED video / audio call dialog not closing if there are multiple tabs.
+ - FIXED "mark all messages" as read button was hanging.
+ - FIXED stickers not working on nodejs.
+ - FIXED FTP storage was not working on nodejs.
+ - FIXED SEO links on movies, added movie title to movie link instead of using only /ID
+ - FIXED showing dollar sign on points page even if you have a different currency.
+ - FIXED clicking on "Advanced Search" was redirecting to 404 page.
+ - FIXED create blog link could be accessed even if the permission is not allowed.
+ - FIXED points were not added if the blog approval system was enabled.
+ - FIXED blog is not deleted if you delete the blog post.
+ - FIXED Agora live streaming.
+ - FIXED Wallet + Balance were showing on "My Earnings" page.
+ - FIXED group chat notifications (nodejs).
+ - FIXED br tags showing on post title.
+ - FIXED video files are not deleting from the server (FFmpeg)
+ - FIXED promoted pages/posts were not reset after the pro membership is ended.
+ - FIXED 3 nodejs warning messages.
+ - FIXED comment is not working when using the french language.
+ - FIXED the ability to upload multiple images on the product.
+ - FIXED wasabi not working on default east region.
+ - FIXED UTF-8 characters not working on games.
+ - FIXED "Max Upload Size" not updating from admin panel.
+ - FIXED user can upload audio files even if the audio upload is not allowed for the user group.
+ - FIXED weather not showing on the sunshine theme.
+ - FIXED audio recording upload using nodejs from chat and messages page.
+ - FIXED can't post if post approval system enabled from admin panel.
+ - FIXED 50+ design and frontend minor bugs.
+ - FIXED 10+ more minor bugs.
+
 # v4.1.1 10 Jul 2022
 - ADDED story viewed time.
 - IMPROVED design / colors in default theme for few sections.
