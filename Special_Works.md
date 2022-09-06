@@ -1,3 +1,6 @@
+# 06.09.2022
+ - We will now finish the new version 4.1.2.
+
 # 03.09.2022
  - We are currently very much focused on developing a new, huge update for linkspreed.com.  
  - Version 4.1.2 will be gigantic 😍
