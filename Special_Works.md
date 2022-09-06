@@ -1,4 +1,8 @@
 # 06.09.2022
+ - 🥳🥳 The test launch was carried out on Seedspreed.  
+ - We will thoroughly investigate the update and as soon as it gets the green light, we will also publish it on Linkspreed and ForJu.
+
+# 06.09.2022
  - We will now finish the new version 4.1.2.
 
 # 03.09.2022
