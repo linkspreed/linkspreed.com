@@ -1,4 +1,8 @@
 # 07.09.2022
+ - The CronJob has now been fully developed and successfully loaded onto our servers.
+ - This allows us to keep improving the site.
+
+# 07.09.2022
  - We are working on new CronJobs for Linkspreed, Seedspreed and ForJu.
 
 # 06.09.2022
