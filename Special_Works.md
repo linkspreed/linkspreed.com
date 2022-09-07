@@ -1,3 +1,6 @@
+# 07.09.2022
+ - We are working on new CronJobs for Linkspreed, Seedspreed and ForJu.
+
 # 06.09.2022
  - Update 4.1.2 has been released successfully. 🥳😍
 
