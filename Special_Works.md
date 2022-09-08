@@ -1,5 +1,5 @@
 # 08.09.2022
- - Now share your location on ForJu and show it on a map.🗺️
+ - Now share your location on Linkspreed and show it on a map.🗺️
 
 # 08.09.2022
  - We are now working on the fine tuning of Linkspreed. 🧡
