@@ -1,4 +1,7 @@
 # 10.09.2022
+ - Tomorrow we are expected to release version 4.1.3 of Linkspreed, ForJu and SeedSpreed, which actually only fixed a few bugs. 🚀
+
+# 10.09.2022
  - Now you will find a banner on Linkspreed.com that you can use to easily download our app. 
  - Have fun! 🥳
 
