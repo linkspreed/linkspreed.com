@@ -1,4 +1,8 @@
 # 10.09.2022
+ - Now you will find a banner on Linkspreed.com that you can use to easily download our app. 
+ - Have fun! 🥳
+
+# 10.09.2022
  - We're doing some final development work on Linkspreed now. 🧡
 
 # 08.09.2022
