@@ -1,4 +1,7 @@
 # 11.09.2022
+ - We are now getting the servers, code and databases ready for the launch of version 4.1.3. 🚀🧡
+
+# 11.09.2022
  - We are now finishing our work on version 4.1.3 of Linkspreed, Seedspreed and ForJu.
  - The bugs from version 4.1.2 have been successfully fixed.
 
