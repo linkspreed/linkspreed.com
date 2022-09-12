@@ -1,3 +1,12 @@
+# v4.1.3 (11 Sep, 2022)
+ - FIXED funding page design was broken.
+ - FIXED sending a not supported file in chat won't show the wrong file format pop up.
+ - FIXED when you send a file or an image in chat, clicking on the image doesn't open it.
+ - FIXED "now ago" showing on notifications.
+ - FIXED files are not being deleted from third party storage after deleting the post.
+ - FIXED article link will not open if there an extra slash at the end.
+ - FIXED 4+ more minor bugs.
+
 # v4.1.2 (06 Sep, 2022)
  - ADDED new emojis to messages and posts.
  - ADDED drag and drop to upload stories page.
