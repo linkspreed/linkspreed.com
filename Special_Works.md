@@ -1,3 +1,7 @@
+# 12.09.2022
+ - Version 4.1.3 has been successfully released and tested on the platforms. ✅
+ - It is now available online.
+
 # 11.09.2022
  - We are now finishing the launches of version 4.1.3 for Linkspreed, ForJu and SeedSpreed.
  - As soon as the update is complete, we will let you know and publish the changelog.
