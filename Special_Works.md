@@ -1,4 +1,7 @@
 # 12.09.2022
+ - 📷 You can now upload your videos again on Linkspreed and share them with your friends.
+
+# 12.09.2022
  - Version 4.1.3 has been successfully released and tested on the platforms. ✅
  - It is now available online.
 
