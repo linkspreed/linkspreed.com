@@ -1,3 +1,7 @@
+# 17.09.2022
+ - https://www.linkspreed.com/site-pages/Disclaimer
+ - The official Linkspreed disclaimer is now available at linkspreed.com 🧡
+
 # 12.09.2022
  - 📷 You can now upload your videos again on Linkspreed and share them with your friends.
 
