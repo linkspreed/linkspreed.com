@@ -1,3 +1,6 @@
+# 23.09.2022
+ - We are currently working and developing version 4.1.4 for Linkspreed.com
+
 # 17.09.2022
  - https://www.linkspreed.com/site-pages/Disclaimer
  - The official Linkspreed disclaimer is now available at linkspreed.com 🧡
