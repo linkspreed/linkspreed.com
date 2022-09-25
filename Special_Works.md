@@ -1,4 +1,7 @@
 # 25.09.2022
+ - We're getting the servers ready for the launch of version 4.1.4.
+
+# 25.09.2022
  - The code for version 4.1.4 is ready. 🥳
 
 # 25.09.2022
