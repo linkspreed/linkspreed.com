@@ -1,3 +1,16 @@
+# v4.1.4 (25 Sep, 2022)
+ - FIXED slow load when visiting the website first time.
+ - FIXED br tag showing on user about, pages, groups and products.
+ - FIXED wasabi not working with nodejs.
+ - FIXED jpg images with webp mime type returning null images.
+ - FIXED videos are playing even though you play another video.
+ - FIXED coinbase payment returning to 500 Internet server error when canceling a payment.
+ - FIXED profile completion system not working in Instagram mode.
+ - FIXED movies cannot be added by moderators.
+ - FIXED showing long balance in my earnings page.
+ - FIXED post limit per hour not working.
+ - FIXED 4+ more minor bugs.
+
 # v4.1.3 (11 Sep, 2022)
  - FIXED funding page design was broken.
  - FIXED sending a not supported file in chat won't show the wrong file format pop up.
