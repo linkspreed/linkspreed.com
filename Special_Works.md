@@ -1,4 +1,7 @@
 # 25.09.2022
+ - The code for version 4.1.4 is ready. 🥳
+
+# 25.09.2022
  - Today we will release version 4.1.4 for Linkspreed
 
 # 23.09.2022
