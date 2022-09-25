@@ -1,3 +1,6 @@
+# 25.09.2022
+ - Today we will release version 4.1.4 for Linkspreed
+
 # 23.09.2022
  - We are currently working and developing version 4.1.4 for Linkspreed.com
 
