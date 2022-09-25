@@ -1,4 +1,7 @@
 # 25.09.2022
+ - 🥳 We at Linkspreed are proud to announce that version 4.1.4 of Linkspreed, SeedSpreed and ForJu has been released. ✅
+
+# 25.09.2022
  - The launch begins now.  
  - Version 4.1.4 is on the way!
 
