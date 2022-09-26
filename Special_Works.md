@@ -1,5 +1,8 @@
 # 26.09.2022
-- We are now publishing the EULA on **linkspreed**.com.
+ - https://www.linkspreed.com/site-pages/EULA
+
+# 26.09.2022
+ - We are now publishing the EULA on **linkspreed**.com.
 
 # 25.09.2022
  - The entire changelog for version 4.1.4 is now available on Github.
