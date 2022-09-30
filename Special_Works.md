@@ -1,3 +1,6 @@
+# 01.10.2022
+ - https://www.producthunt.com/posts/linkspreed
+
 # 26.09.2022
  - https://www.linkspreed.com/site-pages/EULA
 
