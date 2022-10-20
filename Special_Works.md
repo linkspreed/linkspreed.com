@@ -1,4 +1,8 @@
 ### 20.10.2022 (announcement Linkspreed)
+- The server and the code are ready for the upcoming theme update (2.6.3).
+- We're going to launch very soon.
+
+### 20.10.2022 (announcement Linkspreed)
 - We're going to publish a theme update (v2.6.3), which will solve some minor issues.
 
 # 01.10.2022
