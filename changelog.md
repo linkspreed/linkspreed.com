@@ -1,3 +1,6 @@
+# [DESIGN UPDATE] v2.6.3 (20 Oct, 2022)
+ - Fixed some minor issues.
+
 # v4.1.4 (25 Sep, 2022)
  - FIXED slow load when visiting the website first time.
  - FIXED br tag showing on user about, pages, groups and products.
