@@ -1,3 +1,6 @@
+### 20.10.2022 (announcement Linkspreed)
+- We're going to publish a theme update (v2.6.3), which will solve some minor issues.
+
 # 01.10.2022
  - Registration via Google is now possible again.
 
