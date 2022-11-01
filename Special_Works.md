@@ -1,4 +1,7 @@
 ### 01.11.2022 (announcement Linkspreed)
+- We're excited to announce that Cloudflare Startups v2 has enabled us to further increase **Linkspreed**'s speed, performance, and security.
+
+### 01.11.2022 (announcement Linkspreed)
 - **Linkspreed** now runs flawlessly with Cloudflare as the primary DNS provider.
 
 ### 01.11.2022 (announcement Linkspreed)
