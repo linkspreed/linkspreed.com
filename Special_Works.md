@@ -1,4 +1,7 @@
 ### 01.11.2022 (announcement Linkspreed)
+- **Linkspreed** now runs flawlessly with Cloudflare as the primary DNS provider.
+
+### 01.11.2022 (announcement Linkspreed)
 - We have now received the Cloudflare Startup packet for **Linkspreed**.
 
 ### 20.10.2022 (announcement Linkspreed)
