@@ -1,3 +1,6 @@
+### 01.11.2022 (announcement Linkspreed)
+- We have now received the Cloudflare Startup packet for **Linkspreed**.
+
 ### 20.10.2022 (announcement Linkspreed)
 - We updated the changelog for the new design update on Github.
 
