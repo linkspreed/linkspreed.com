@@ -1,3 +1,6 @@
+### 03.11.2022 (announcement Linkspreed)
+- https://pagespeed.web.dev/report?url=https%3A%2F%2Flinkspreed.com
+
 ### 01.11.2022 (announcement Linkspreed)
 - We're excited to announce that Cloudflare Startups v2 has enabled us to further increase **Linkspreed**'s speed, performance, and security.
 
