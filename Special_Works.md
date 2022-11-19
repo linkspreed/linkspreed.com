@@ -1,4 +1,7 @@
 ### 03.11.2022 (announcement Linkspreed)
+- Doing some minor language string modifications.
+
+### 03.11.2022 (announcement Linkspreed)
 - **Linkspreed** has now been able to achieve the absolute performance achievement.
 - **Linkspreed**'s performance is excellent and very good.
 
