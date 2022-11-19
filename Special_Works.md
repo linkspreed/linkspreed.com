@@ -1,4 +1,4 @@
-### 03.11.2022 (announcement Linkspreed)
+### 19.11.2022 (announcement Linkspreed)
 - Doing some minor language string modifications.
 
 ### 03.11.2022 (announcement Linkspreed)
