@@ -1,4 +1,7 @@
 ### 19.11.2022 (announcement Linkspreed)
+- https://user-images.githubusercontent.com/102324985/202865055-106d68c5-0978-47d6-8298-70f4e6cca483.png
+
+### 19.11.2022 (announcement Linkspreed)
 - Doing some minor language string modifications.
 
 ### 03.11.2022 (announcement Linkspreed)
