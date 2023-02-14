@@ -1,3 +1,8 @@
+# v4.1.5 (14 Feb, 2023)
+ - ADDED Cache System -> now the website speed is more than 80% faster, average load dropped from 1.2s to 0.15s.
+ - FIXED 4 security issues, in follow privacy, bruteforce on login & two auth, XSS in messages using nodejs.
+ - FIXED 2+ more minor bugs.
+
 # [DESIGN UPDATE] v2.6.3 (20 Oct, 2022)
  - Fixed some minor issues.
 
