@@ -1,3 +1,9 @@
+### 08.03.2023 (announcemen Linkspreed)
+- We're doing some researches regarding new and faster database server for **linkspreed.com**.
+
+### 07.03.2023 (announcemen Linkspreed)
+- We're doing some researches regarding new and faster database server for **linkspreed.com**.
+
 ### 14.02.2023 (announcement Linkspreed)
 - https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
 - The entire changelog is now available on Github.
