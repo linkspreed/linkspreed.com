@@ -1,7 +1,11 @@
-### 16.03.2023 (announcement Linkspreed.com)
+### 16.03.2023 (announcement Linkspreed)
+- The long-awaited Poke feature from Linkspeed is finally here! 
+- Now you can poke your friends and show them some love in the virtual world 🎉 #PokeFeature #Linkspeed
+
+### 16.03.2023 (announcement Linkspreed)
 - Exciting news! We're thrilled to announce that we're exploring a brand new feature for http://Linkspreed.com! Stay tuned for updates on this exciting development. #Linkspreed #newfeature #exploration
 
-### 11.03.2023 (announcement Linkspreed.com)
+### 11.03.2023 (announcement Linkspreed)
 - Just upgraded the database for Linkspreed.com to 8 CPU and 32 GB RAM! 
 - Stay tuned for more updates on March 15th. #Linkspreed #databaseupgrade
 
