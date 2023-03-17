@@ -1,3 +1,9 @@
+### 17.03.2023 (announcement Linkspreed)
+- The wait is over! The first forum on Linkspreed.com is now online. Join the conversation and connect with like-minded individuals on our platform. #Linkspreed #OnlineForum #ConnectAndShare
+
+### 17.03.2023 (announcement Linkspreed)
+- We're excited to announce that we'll be working on the forum feature for Linkspreed.com! Stay tuned for more updates on this exciting new addition to our platform. #Linkspreed #ForumFeature #ComingSoon
+
 ### 16.03.2023 (announcement Linkspreed)
 - The long-awaited Poke feature from Linkspeed is finally here! 
 - Now you can poke your friends and show them some love in the virtual world 🎉 #PokeFeature #Linkspeed
