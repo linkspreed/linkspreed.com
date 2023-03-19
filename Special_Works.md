@@ -1,4 +1,10 @@
 ### 19.03.2023 (announcement Linkspreed)
+- 🚀 The future is looking bright for Linkspreed! We're working hard to bring you 30 forum sections with 5 forums each, making a total of 150 forums where you can connect with like-minded individuals and engage in meaningful discussions. Stay tuned for more updates! #Linkspreed #CommunityForums #StayConnected
+
+### 19.03.2023 (announcement Linkspreed)
+- 🎉 We're excited to announce that we've added several new discussion categories to Linkspreed! Come join the conversation and share your thoughts on a wide range of topics. #Linkspreed #CommunityBuilding #DiscussionCategories
+
+### 19.03.2023 (announcement Linkspreed)
 - Revolutionizing the speed game! With just a few tweaks, we've taken #Linkspreed to the next level, making lightning-fast browsing a reality. 🚀💨 #InnovativeTech #FasterThanEver
 
 ### 17.03.2023 (announcement Linkspreed)
