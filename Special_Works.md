@@ -1,3 +1,6 @@
+### 09.04.2023 (announcement Linkspreed)
+- We have submitted Linkspreed for verification on Adsense, but we are also open to other ad networks. #advertising #digitalmarketing
+
 ### 05.04.2023 (announcement Linkspreed)
 - 🎉 Exciting news! 🎉 We're working on premium packages for #Linkspreed! 💰💻 Stay tuned for more updates. #innovation #tech #startup
 
