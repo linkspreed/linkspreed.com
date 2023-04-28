@@ -1,3 +1,6 @@
+### 27.04.2023 (announcement Linkspreed)
+- 🎉📈 We're thrilled to announce that we've upgraded our first batch of verified volunteers to become moderators for Linkspreed.com! Their dedication to helping us maintain a safe and engaging platform is unparalleled. #Volunteers #Linkspreed #Moderators
+
 ### 09.04.2023 (announcement Linkspreed)
 - We have submitted Linkspreed for verification on Adsense, but we are also open to other ad networks. #advertising #digitalmarketing
 
