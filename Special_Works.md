@@ -1,3 +1,6 @@
+### 01.05.2023 (announcement Linkspreed.com)
+- 📅👉 Since May 1st, 2023, we've started airing some ads through Google Adsense on Linkspreed.com. Don't worry, they're not annoying and fit seamlessly with the website! #advertising #GoogleAdsense #Linkspreed 🌐📈
+
 ### 27.04.2023 (announcement Linkspreed)
 - 🎉📈 We're thrilled to announce that we've upgraded our first batch of verified volunteers to become moderators for Linkspreed.com! Their dedication to helping us maintain a safe and engaging platform is unparalleled. #Volunteers #Linkspreed #Moderators
 
