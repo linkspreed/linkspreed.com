@@ -1,3 +1,6 @@
+### 03.05.2023 (announcement Linkspreed)
+- 👨‍💻👩‍💻📈 We are still hard at work on the new, future version v4.2 for Linkspreed.com and a few of our other social networks. #UpgradesComing #MoreInnovations #NewFeatures
+
 ### 01.05.2023 (announcement Linkspreed.com)
 - 📅👉 Since May 1st, 2023, we've started airing some ads through Google Adsense on Linkspreed.com. Don't worry, they're not annoying and fit seamlessly with the website! #advertising #GoogleAdsense #Linkspreed 🌐📈
 
