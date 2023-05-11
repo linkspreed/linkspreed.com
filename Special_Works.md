@@ -1,4 +1,25 @@
-### 11.05.2023 (announcement Linkspreed.com)
+### 11.05.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 11.05.2023 (announcement Linkspreed)
+- The launch of version 4.2 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 11.05.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.2.
+
+### 11.05.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.2 for **Linkspreed**.
+
+### 11.05.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.2 for **Linkspreed**.
+
+### 11.05.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.2. 😍
+
+### 11.05.2023 (announcement Linkspreed)
 - 🔥 Big News Alert!🔥 Our team has been working tirelessly to introduce the all-new AI feature in the latest version v4.2 of Linkspreed.com. Get ready for an enhanced browsing experience!👨‍💻👩‍💻 Share your thoughts in the comments👇 #NewFeatures #Linkspreed #AItechnology
 What feature are you most excited about in the latest version of Linkspreed.com? Let's chat! 💬
 
