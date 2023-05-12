@@ -1,3 +1,6 @@
+### 12.05.2023 (announcement Linkspreed)
+- 🚨 BIG NEWS 🚨 We've finally integrated AI into our platform and connected it with a credit system! What feature are you most excited to see in our new AI-integrated platform? Get ready to experience the future of social media. Linkspreed AI goes live in just a few days! 🤖💰 #LinkspreedAI #AIinSocialMedia #TheFutureIsHere
+
 ### 11.05.2023 (announcement Linkspreed)
 - https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
 - The entire changelog is now available on Github.
