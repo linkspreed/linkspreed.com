@@ -1,4 +1,7 @@
 ### 12.05.2023 (announcement Linkspreed)
+- 🎉 It's official - we've completed a successful test run of our backend code for Linkspreed! 🙌 Version 4.2 is up and running smoothly, and we're excited to wrap up the configuration work. What features are you most looking forward to in the new version of Linkspreed? 🔍🚀 #LinkspreedUpdate #Version4.2 #ExcitingTimes
+
+### 12.05.2023 (announcement Linkspreed)
 - 🚨 BIG NEWS 🚨 We've finally integrated AI into our platform and connected it with a credit system! What feature are you most excited to see in our new AI-integrated platform? Get ready to experience the future of social media. Linkspreed AI goes live in just a few days! 🤖💰 #LinkspreedAI #AIinSocialMedia #TheFutureIsHere
 
 ### 11.05.2023 (announcement Linkspreed)
