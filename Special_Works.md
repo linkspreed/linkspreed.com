@@ -1,3 +1,6 @@
+### 12.05.2023 (announcement Linkspreed.com)
+- 🚀👩‍🚀👨‍🚀 New futuristic design alert! Our team has just launched the updated Linkspreed.com website and it looks like it came straight from the future 🔮🌌 What do you think of our new look? Drop us a comment and let us know if you preferred our old design. #Linkspreed #FuturisticDesign #Feedback 🤔
+
 ### 12.05.2023 (announcement Linkspreed)
 - 🎉 It's official - we've completed a successful test run of our backend code for Linkspreed! 🙌 Version 4.2 is up and running smoothly, and we're excited to wrap up the configuration work. What features are you most looking forward to in the new version of Linkspreed? 🔍🚀 #LinkspreedUpdate #Version4.2 #ExcitingTimes
 
