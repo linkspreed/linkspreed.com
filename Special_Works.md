@@ -1,12 +1,16 @@
-### 13.05.2023 (announcement Linkspreed.com)
+### 13.05.2023 (announcement Linkspreed)
+- 🎉🚀The whole Linkspreed team is thrilled to announce the full redesign of our platform! 🔥 Say goodbye to the old design you can still find on Seedspreed. We'll continue developing it and keeping it archived on our servers. But for now, enjoy a social network straight from the future! 🌟 #Linkspreed #Redesign #SocialMedia
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/81170e2f-d709-45ce-8487-56fad6dbd881
+
+### 13.05.2023 (announcement Linkspreed)
 - 👋 Hey guys! Say hi to our Bitmojis - now available as default avatars for those without a profile pic 🙌 Looking for your feedback - what do you guys think? 🔍 #Bitmoji #ProfilePic #UserExperience 💬 Do you love it or hate it? Let us know in the comments! 👇
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/647e9d26-7f81-4fd2-a8e9-d0f8e2fcd2f1
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/0cf7992c-3200-4031-b0c5-63fb04260946
 
-### 13.05.2023 (announcement Linkspreed.com)
+### 13.05.2023 (announcement Linkspreed)
 - 🔧 Good news, everyone! 🔧 We've fixed the bug with the Sad Reaction on Linkspreed.com 🙌🏻 It was related to our internal cache, but we got it all sorted! 🎉 Have you tried leaving a reaction on a link recently? Let us know if everything's working as it should! 👀 #Linkspreed #BugFix #SadReaction
 
-### 13.05.2023 (announcement Linkspreed.com)
+### 13.05.2023 (announcement Linkspreed)
 - 🎉 It's finally here! Check out the new standard Bitmoji avatars on Linkspreed.com for users who haven't uploaded a profile picture yet. 😍 Which Bitmoji is your favorite? #Linkspreed #Bitmoji #Avatars 🤔 Did you try updating your profile picture yet?
 
 ### 12.05.2023 (announcement Linkspreed)
