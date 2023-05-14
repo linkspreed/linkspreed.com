@@ -1,3 +1,6 @@
+### 14.05.2023 (announcement Linkspreed)
+- 📢 Attention! We're excited to announce our new platform internal notifications! From now on, you'll receive all platform updates through notifications@linkspreed.com 📨 Please note that this is a change and do not reply to these emails as they're not monitored by us. Have you updated your notification settings yet? #LinkspreedUpdates #PlatformNotifications 💬
+
 ### 13.05.2023 (announcement Linkspreed)
 - 🎉🚀The whole Linkspreed team is thrilled to announce the full redesign of our platform! 🔥 Say goodbye to the old design you can still find on Seedspreed. We'll continue developing it and keeping it archived on our servers. But for now, enjoy a social network straight from the future! 🌟 #Linkspreed #Redesign #SocialMedia
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/81170e2f-d709-45ce-8487-56fad6dbd881
