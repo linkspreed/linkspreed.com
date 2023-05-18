@@ -1,3 +1,16 @@
+# v4.2.1 (19 May, 2023)
+ - FIXED contact us page on sunshien theme.
+ - FIXED messages list not showing on phone in sunshine.
+ - FIXED turn off / on notifications on sunshine theme.
+ - FIXED notifications bell not showing on sunshine on profile page.
+ - FIXED announcement text not showing on sunshine theme.
+ - FIXED comments cannot be made on blogs.
+ - FIXED users cannot be verified by moderators.
+ - FIXED avatars cannot be changed in manage genders page in admin panel.
+ - FIXED sorting by price doesn't work well on marketplace.
+ - FIXED creating an article in the blog and publishing it, it does not show words with accented letters.(à,è,ì,ò,ù).
+ - FIXED 10+ minor bugs in back and front end.
+
 # v4.1.5 (14 Feb, 2023)
  - ADDED Cache System -> now the website speed is more than 80% faster, average load dropped from 1.2s to 0.15s.
  - FIXED 4 security issues, in follow privacy, bruteforce on login & two auth, XSS in messages using nodejs.
