@@ -1,3 +1,27 @@
+### 19.05.2023 (announcement Linkspreed)
+- 🎉 Check it out! We just published version 4.2.1 for Linkspreed.com 🚀 The patch notes are available on Github! We've taken care of the reported errors by our users 👀 Question for you: Have you already checked our new version? #Linkspreed #newrelease #webdevelopment #tech #webdev
+
+### 19.05.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 19.05.2023 (announcement Linkspreed)
+- The launch of version 4.2.1 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 19.05.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.2.1.
+
+### 19.05.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.2.1 for **Linkspreed**.
+
+### 19.05.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.2.1 for **Linkspreed**.
+
+### 19.05.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.2.1. 😍
+
 ### 18.05.2023 (announcement Linkspreed)
 - 🎉 Heads up! We'll be rolling out version 4.2.1 of Linkspreed.com in the next few hours, which includes fixes for bugs reported by you! 🐛 Our team has been working hard to make sure you have the best user experience. What's your favorite feature on Linkspreed.com? #Linkspreed #BugFix #UserExperience 🤔
 
