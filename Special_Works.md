@@ -1,3 +1,6 @@
+### 18.05.2023 (announcement Linkspreed)
+- 🎉 Heads up! We'll be rolling out version 4.2.1 of Linkspreed.com in the next few hours, which includes fixes for bugs reported by you! 🐛 Our team has been working hard to make sure you have the best user experience. What's your favorite feature on Linkspreed.com? #Linkspreed #BugFix #UserExperience 🤔
+
 ### 14.05.2023 (announcement Linkspreed)
 - 📢 Attention! We're excited to announce our new platform internal notifications! From now on, you'll receive all platform updates through notifications@linkspreed.com 📨 Please note that this is a change and do not reply to these emails as they're not monitored by us. Have you updated your notification settings yet? #LinkspreedUpdates #PlatformNotifications 💬
 
