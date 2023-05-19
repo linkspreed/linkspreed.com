@@ -1,4 +1,8 @@
 ### 19.05.2023 (announcement Linkspreed)
+- 📱🚀 Have you ever used Linkspreed on your mobile device? 🤔 Did you know that you can now download the Linkspreed APK APP by simply clicking on the notification that appears at the bottom left of your screen? 🔥 This feature is exclusively available on small screens and compatible only with Android devices. #Linkspreed #APK #MobileUsage 💻 Are you excited to try it out?
+- https://github.com/linkspreed/General_Linkspreed/assets/102324985/d3368d77-fede-48fe-bfeb-e7efd8aad6ee
+
+### 19.05.2023 (announcement Linkspreed)
 - 🎉 Check it out! We just published version 4.2.1 for Linkspreed.com 🚀 The patch notes are available on Github! We've taken care of the reported errors by our users 👀 Question for you: Have you already checked our new version? #Linkspreed #newrelease #webdevelopment #tech #webdev
 
 ### 19.05.2023 (announcement Linkspreed)
