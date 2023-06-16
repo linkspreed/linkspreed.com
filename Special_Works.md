@@ -1,3 +1,6 @@
+### 16.06.2023 (announcement Linkspreed.com)
+- 🔨👷‍♀️ Right now we're tackling some general tasks for our main platform, Linkspreed.com. What improvements would you love to see on our site? Share your ideas in the comments below! 🤔 #linkspreed #SEO #webdevelopment 💻🌐
+
 ### 19.05.2023 (announcement Linkspreed)
 - 📱🚀 Have you ever used Linkspreed on your mobile device? 🤔 Did you know that you can now download the Linkspreed APK APP by simply clicking on the notification that appears at the bottom left of your screen? 🔥 This feature is exclusively available on small screens and compatible only with Android devices. #Linkspreed #APK #MobileUsage 💻 Are you excited to try it out?
 - https://github.com/linkspreed/General_Linkspreed/assets/102324985/d3368d77-fede-48fe-bfeb-e7efd8aad6ee
