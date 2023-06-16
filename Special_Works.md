@@ -1,4 +1,7 @@
-### 16.06.2023 (announcement Linkspreed.com)
+### 16.06.2023 (announcement Linkspreed)
+- 🎉👏 Exciting news! We're thrilled to announce that we've successfully completed all the general tasks on linkspreed.com 🚀 What's your favorite feature on the website? Let us know in the comments 👇 #linkspreed #website #tech #achievement
+
+### 16.06.2023 (announcement Linkspreed)
 - 🔨👷‍♀️ Right now we're tackling some general tasks for our main platform, Linkspreed.com. What improvements would you love to see on our site? Share your ideas in the comments below! 🤔 #linkspreed #SEO #webdevelopment 💻🌐
 
 ### 19.05.2023 (announcement Linkspreed)
