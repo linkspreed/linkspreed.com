@@ -1,3 +1,27 @@
+### 30.11.2023 (announcement Linkspreed)
+- 🎉 Exciting news! We've just released the latest update - Version 4.3.1 of Linkspreed! 🚀🌟 It's definitely a reason to celebrate! 🎊🥳 Get ready to explore the amazing new features and improvements we've brought to the table. Check out all the details and changes on our GitHub page. 💻✨ #Linkspreed #Update #NewFeatures
+
+### 30.11.2023 (announcement Linkspreed)
+- https://github.com/linkspreed/Linkspreed.com/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 30.11.2023 (announcement Linkspreed)
+- The launch of version 4.3.1 of **Linkspreed** was successful! 🥳
+- The new update is live now :)
+- https://linkspreed.com 🔗
+
+### 30.11.2023 (announcement Linkspreed)
+- We are now starting the launch of v4.3.1.
+
+### 30.11.2023 (announcement Linkspreed)
+- The servers are now ready for the launch of version 4.3.1 for **Linkspreed**.
+
+### 30.11.2023 (announcement Linkspreed)
+- The code is now ready for the launch of version 4.3.1 for **Linkspreed**.
+
+### 30.11.2023 (announcement Linkspreed)
+-  **Linkspreed** gets a big update today - we are going to launch v4.3.1. 😍
+
 ### 21.11.2023 (announcement Linkspreed)
 - 📣 Great news! 🎉 We've just updated Linkspreed to version 4.3! 🚀🔥 This latest update brings tons of exciting features and improvements to enhance your experience. 🙌💯 Have you updated yet? Share your thoughts with us using #LinkspreedUpdate and let's take your productivity to the next level! 💪✨
 
