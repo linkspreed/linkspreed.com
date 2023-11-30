@@ -1,3 +1,17 @@
+# v4.3.1
+ - FIXED if you post a public post, then make it monetized, the subscribe button will not show.
+ - FIXED images were loading in reels.
+ - FIXED showing youtube videos on watch page which cause some issues.
+ - FIXED shwoing only one video in watch lightbox.
+ - FIXED monetization system caluclation was incorrect.
+ - FIXED showing the same ad multiple times in the story section.
+ - FIXED reels system, not showing more than 10 videos.
+ - FIXED scrolling down on phone does not work on reels page.
+ - FIXED currency issues in monetization system.
+ - FIXED backend config encryption system, the secret keys were not encrypted and could cause data leak.
+ - FIXED many issues in design.
+ - FIXED 10 other minor bugs.
+
 # v4.3 (21 November, 2023)
  - ADDED monetization system, users are able now to sell their own content like only fans.
  - ADDED directory system, users can view the site content without the need to login.
