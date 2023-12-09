@@ -1,4 +1,18 @@
-# v4.3.1
+# v4.3.2 (09 December, 2023)
+ - IMPROVED speed after v4.3 update.
+ - IMPROVED speed of search system in admin panel.
+ - UPDATED few sections in sunshine theme (design).
+ - FIXED add account page broken on both themes.
+ - FIXED sometimes reels not loading more than 6 videos.
+ - FIXED social login system.
+ - FIXED showing dublicated transactions in wallet page.
+ - FIXED if a feature is turned off, it is still showing in directory page.
+ - FIXED comment section not showing in watch page.
+ - FIXED video playing in background instead of lightbox in watch page.
+ - FIXED sometimes photos were showing in watch page.
+ - FIXED 10 other minor bugs.
+
+# v4.3.1 (30 November, 2023)
  - FIXED if you post a public post, then make it monetized, the subscribe button will not show.
  - FIXED images were loading in reels.
  - FIXED showing youtube videos on watch page which cause some issues.
