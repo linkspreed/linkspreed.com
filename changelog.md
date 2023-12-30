@@ -1,3 +1,9 @@
+# v4.3.3 (30 December, 2023)
+ - IMPROVED speed again after v4.3 update.
+ - FIXED smtp related issues.
+ - FIXED API related issues.
+ - FIXED 5 other minor bugs.
+
 # v4.3.2 (09 December, 2023)
  - IMPROVED speed after v4.3 update.
  - IMPROVED speed of search system in admin panel.
